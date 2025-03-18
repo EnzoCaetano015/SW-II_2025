@@ -1,0 +1,23 @@
+{
+    "empregados": [
+      {
+        "id": 1,
+        "nome": "Caetano",
+        "email": "Caetano@email",
+        "idade": 17
+      },
+      {
+        "id": 2,
+        "nome": "Anderson",
+        "email": "PHPMAN@email",
+        "idade": 26
+      },
+      {
+       "id": 3,
+        "nome": "Cintia",
+        "email": "CintIA@email",
+        "idade": 25
+      }
+    ]
+  }
+  

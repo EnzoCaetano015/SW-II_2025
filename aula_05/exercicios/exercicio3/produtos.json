@@ -1,0 +1,15 @@
+{
+    "produto": "Mouse",
+    "preco": 50,
+    "quantidade": 350,
+    "0": {
+        "produto": "Fone",
+        "preco": 40,
+        "quantidade": 150
+    },
+    "1": {
+        "produto": "Fone",
+        "preco": 40,
+        "quantidade": 150
+    }
+}
